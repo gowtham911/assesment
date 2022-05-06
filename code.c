@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdlib.h> // exit()
+#include <stdlib.h>
 FILE *ptr_source;
 
 void SplitbySize(FILE *ptr_source, char *argv[]) {
